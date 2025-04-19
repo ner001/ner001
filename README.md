@@ -35,8 +35,8 @@ I'm a second-year ICT Engineering student passionate about building innovative w
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/html-icon.svg" width="65"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/css-icon.svg" width="65"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo_and_wordmark.svg" width="65"/><br>HTML</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="65"/><br>CSS</td>
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="65"/><br>React</td>
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="65"/><br>Flutter</td>
   </tr>
