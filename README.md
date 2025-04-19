@@ -21,10 +21,10 @@
 🚀 **About Me**  
 I'm a second-year ICT Engineering student passionate about building innovative web & mobile experiences and exploring the limitless world of Artificial Intelligence.
 
-- 🔭 Currently working on: a **sensory stimulation vest** for autistic children + organizing **WIEmpower 2024**
-- 🌱 Actively learning: **Machine Learning**, **AI**, and **Full Stack Web Development**
-- 💡 Interests: **Human-centered tech**, **Social Impact Projects**, **Event Leadership**
-- 👯 Open to collaborations in: AI4Good, Web Projects, and Empowerment Initiatives
+- 🔭 Currently working on: creating a digital twin for enhanced system modeling 
+- 🌱 Actively learning: **Gen AI**, **NLP**, and **Deep learning**
+- 💡 Interests: Human-centered tech, Social Impact Projects, Leadership, Entrepreneurial Engineering, and SDGs.
+- 👯 Open to collaborations in: AI4Good, MLOps Projects, and Empowerment Initiatives
 - 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
 
 ---
@@ -52,26 +52,12 @@ I'm a second-year ICT Engineering student passionate about building innovative w
 
 ---
 
-📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nermineezzine&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermineezzine&layout=compact&theme=radical" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nermineezzine&theme=radical"/>
-</div>
-
----
-
 🏆 **Highlights**
 
-- 🧠 Developed a **smart vest** to support autistic children
+- 🧠 Developed an AI agent to streamline HR processes, enhancing recruitment, onboarding, and employee performance tracking.
 - 🎓 ICT Engineering student @ SUP'COM
 - 🌟 President of **IEEE WIE SupCom**
-- 🚴‍♀️ Organizer of **Pink October 2024** awareness campaign
 - 💥 Leading **WIEmpower 2024** – Women in Tech initiative
-
 ---
 
 <div align="center">
