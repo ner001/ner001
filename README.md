@@ -28,25 +28,59 @@ I'm a second-year ICT Engineering student passionate about building innovative w
 - 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
 
 ---
-
-🛠️ **Tech Stack**
-
+🛠️ Tech Stack
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo_and_wordmark.svg" width="65"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="65"/><br>CSS</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="65"/><br>React</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="65"/><br>Flutter</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65" />
+      <br>PyTorch
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="65"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="65"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65"/><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65"/><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65"/><br>Figma</td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="65" height="65" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
+      <br>Tailwind
+    </td>
   </tr>
 </table>
 
