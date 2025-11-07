@@ -1,7 +1,7 @@
 <div align="center">👩‍💻 Hey there, I'm Nermine Ezzine! 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+in+the+Making+%7C+Tech+Leader+%7C+Web+Developer;Passionate+about+AI+for+Social+Impact;Driven+by+Purpose%2C+Empowered+by+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=700&lines=Final+Year+AI+Engineer+%7C+Actively+Seeking+Internships;Agentic+AI+%7C+Computer+Vision+%7C+Autonomous+Driving;Award-Winning+AI+Innovator+%7C+4x+Competition+Winner" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,13 +19,13 @@
 ---
 
 🚀 **About Me**  
-I'm a second-year ICT Engineering student passionate about building innovative web & mobile experiences and exploring the limitless world of Artificial Intelligence.
+I'm a final-year ICT Engineering student specializing in Artificial Intelligence, actively seeking internship opportunities to apply my expertise in real-world AI applications. With a proven track record of winning multiple AI competitions, I'm passionate about developing cutting-edge solutions that push the boundaries of AI technology.
 
-- 🔭 Currently working on: creating a digital twin for enhanced system modeling 
-- 🌱 Actively learning: **Gen AI**, **NLP**, and **Deep learning**
-- 💡 Interests: Human-centered tech, Social Impact Projects, Leadership, Entrepreneurial Engineering, and SDGs.
-- 👯 Open to collaborations in: AI4Good, MLOps Projects, and Empowerment Initiatives
-- 🎯 Mission: Empower, Lead, and Create meaningful tech solutions
+- 🔭 **Currently working on:** Agentic AI systems, Agentic RAG (Retrieval-Augmented Generation), and Computer Vision for Autonomous Driving
+- 🌱 **Core Expertise:** Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and AI Agent Systems
+- 🎯 **Seeking:** AI Engineering internships where I can contribute to innovative projects in autonomous systems, agentic AI, or vision-based applications
+- 💡 **Interests:** Autonomous Driving, Human-AI Interaction, MLOps, AI for Social Impact, and Entrepreneurial Innovation
+- 🏆 **Achievement Mindset:** 4x competition winner with a passion for solving complex AI challenges
 
 ---
 🛠️ Tech Stack
@@ -86,12 +86,38 @@ I'm a second-year ICT Engineering student passionate about building innovative w
 
 ---
 
-🏆 **Highlights**
+🏆 **Competition Achievements & Awards**
 
-- 🧠 Developed an AI agent to streamline HR processes, enhancing recruitment, onboarding, and employee performance tracking.
-- 🎓 ICT Engineering student @ SUP'COM
-- 🌟 President of **IEEE WIE SupCom**
-- 💥 Leading **WIEmpower 2024** – Women in Tech initiative
+- 🥇 **1st Place** – Sofrecom Dev Test Days (MailMate AI)
+- 🥇 **1st Place** – Entrepreneurship Challenge 2025
+- 🥇 **1st Place** – STAR Challenge (Taalimis)
+- 🥉 **3rd Place** – TN2056 Challenge (Sensory Scape)
+
+---
+
+💼 **Professional Highlights**
+
+- 🤖 Developed **Agentic AI systems** with autonomous decision-making capabilities
+- 🚗 Building **Computer Vision solutions** for autonomous driving applications
+- 🧠 Implemented **Agentic RAG** systems for intelligent information retrieval
+- 💡 Created an **AI agent** to streamline HR processes, enhancing recruitment and employee performance tracking
+- 🎓 Final-year ICT Engineering student @ **SUP'COM** (Superior School of Communications of Tunis)
+- 🌟 President of **IEEE WIE SupCom** – Leading diversity and inclusion in technology
+- 💥 Leading **WIEmpower 2024** – Empowering women in tech initiative
+
+---
+
+📫 **Open to Opportunities**
+
+I'm actively seeking AI engineering internships where I can contribute my skills in:
+- Agentic AI & Autonomous Systems
+- Computer Vision & Perception for Autonomous Driving
+- Retrieval-Augmented Generation (RAG) Systems
+- Deep Learning & Neural Networks
+- MLOps & Production AI Systems
+
+Feel free to reach out for collaboration or internship opportunities!
+
 ---
 
 <div align="center">
